@@ -1,0 +1,38 @@
+.middleProfileTopSection {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.middleProfileTopSection img{
+    width: 65px;
+}
+
+.profileImageMiddle {
+    border-radius: 40px;
+}
+
+.textPostField {
+    width: 350px;
+}
+
+.middleProfileTopSection .textPostField {
+    margin-left: 15px;
+}
+
+.middleProfileTopSection .middleIconsSection {
+    width: 30px;
+    margin-left: 70px;
+}
+
+.cardContainer {
+    padding-top: 20px;
+}
+
+.middleMiddleSection {
+    display: flex;
+}
+
+.cardMediaMS {
+    height: 250;
+}

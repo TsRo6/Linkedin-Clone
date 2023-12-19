@@ -1,0 +1,23 @@
+.navbarContainer {
+    padding: 10px;
+    border-bottom: 1px solid #D6D6D6;
+}
+
+.navLogo {
+    width: 25px;
+    margin-left: 20px;
+}
+
+.lens {
+    width: 25px;
+    margin-left: 20px;
+}
+
+.rightSideNavbar img{
+    width: 25px;
+    margin-left: 20px;
+}
+
+.profileImgNavbar {
+    border-radius: 40px;
+}

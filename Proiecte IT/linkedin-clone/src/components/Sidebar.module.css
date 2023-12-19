@@ -1,0 +1,45 @@
+.sidebarLeft {
+    background-color: white;
+    border: 1px solid #D6D6D6;
+    width: 200px;
+    height: 360px;
+    border-top-right-radius: 15px;
+}
+
+.reactImg {
+    height: 65px;
+    width: 200px;
+    border-top-right-radius: 15px;
+}
+
+.profileImg {
+    width: 60px;
+    border-radius: 40px;
+}
+
+.sidebarLeft h3 {
+    position: relative;
+    left: 2%;
+}
+
+.sidebarLeft h4 {
+    position: relative;
+    left: 28%;
+    color: #6D6D6D;
+}
+
+.imageProfileContainer {
+    position: relative;
+    left: 37%;
+}
+
+.connectionsContainer {
+    color: #6D6D6D;
+    border-top: 1px solid #6D6D6D;
+    padding-left: 10px;
+}
+
+.connectionsContainer h5 {
+    font-weight: 100;
+}
+
